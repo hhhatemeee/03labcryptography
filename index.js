@@ -1,8 +1,8 @@
 'use strict'
 
 let rounds = 16;
-let key = 'Алексей'
-let text = 'Куй железо не отходя от кассы'
+let key = 'кукушка'
+let text = 'Ввести свой текст'
 let block = []
 let keyPos = 0
 
